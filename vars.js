@@ -9,6 +9,10 @@ class fucker {
     }
 };
 
+//avoid var, because var is temp, for a scope? isn't that the case with everything
+
+
+
 //normal var
 let fuck = new fucker();
 
