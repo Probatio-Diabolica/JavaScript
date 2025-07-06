@@ -1,0 +1,2 @@
+# suffering
+> It is indeed a word. What a good word. I appreciate this whole-heartedly but I don't think I've suffered enough in my life. Then, I met JS. I saw that, this language makes no sense, its completely nuts, they say. well, here I am, bringing myself here. Each day, I'll put some devlogs here. thanks!! have a good day people. Enjoy my suffering
