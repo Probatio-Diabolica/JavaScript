@@ -3,7 +3,7 @@
 //     console.log(val);
 // };
 
-let fucker = "kid";
+let fucker = "someMF";
 console.log(typeof(fucker));
 
 let numericFucker = "1121";
